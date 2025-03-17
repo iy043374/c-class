@@ -1,1 +1,7 @@
 #include <studio.h>
+
+int main(){
+    print("Hello world\n")
+
+    return0;
+}
